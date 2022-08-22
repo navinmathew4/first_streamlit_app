@@ -1,7 +1,5 @@
 import streamlit
 import pandas
-
-streamlit.text(fruityvice_response)
 streamlit.title('My Parents New Healthy Diner')
 streamlit.header('Breakfast Menu')
 streamlit.text('🥣Idli')
